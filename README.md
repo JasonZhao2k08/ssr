@@ -2,4 +2,4 @@
 ## 更新日期：
 ## 2020.12.4
 ## 订阅地址：
-## https://ss.xiache.tk/subscribe.html
+## https://ssr.xiache.tk/subscribe
